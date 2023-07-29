@@ -1,0 +1,896 @@
+/* 959px start */
+
+@media(max-width:959px) {
+    .header {
+        padding: 10px 4%;
+    }
+
+    .logo img {
+        width: 100px;
+    }
+
+    .buttons #select-btn {
+        margin-right: 5px;
+    }
+
+    .content .text {
+        font-size: 30.5px;
+    }
+
+    .content .para {
+        font-size: 18px;
+        margin-top: 1.4rem;
+    }
+
+    .content .para-1 {
+        font-size: 17px;
+        margin-top: 1.4rem;
+    }
+
+    .user {
+        margin-top: 1rem;
+    }
+
+    .user #email-id {
+        width: 371px;
+    }
+
+    .user .stbtn {
+        width: 171px;
+        font-size: 1.32rem;
+    }
+
+    .main .features {
+        display: flex;
+        flex-direction: column;
+        margin: 0 3.8rem;
+    }
+
+    .main #flex-dir {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .main #flex-dir-3 {
+        flex-direction: none;
+    }
+
+    .features .text-col {
+        text-align: center;
+    }
+
+    .main .text {
+        font-size: 33px;
+    }
+
+    .text-col .detail {
+        font-size: 19px;
+    }
+
+    .img-col .feat-img {
+        width: 550px;
+    }
+
+    .img-col .tv {
+        top: 36.5%;
+        left: 25.5%;
+        max-width: 54%;
+    }
+
+    .img-col .device {
+        left: 32%;
+        top: 31.9%;
+        max-width: 36%;
+    }
+
+    .text-center {
+        font-size: 32px;
+        margin-top: 4rem;
+    }
+
+    .faq {
+        margin-top: 2.3%;
+    }
+
+    .accordion {
+        max-width: 93%;
+    }
+
+    .accordion details summary {
+        padding: 25px;
+        margin-bottom: 4px;
+    }
+
+    summary::after {
+        font-size: 30px;
+        font-weight: lighter;
+    }
+
+    .content-1 .para-1 {
+        margin-top: 2.5rem;
+        font-size: 16.8px;
+    }
+
+    .content-1 .user {
+        padding-bottom: 4.5rem;
+    }
+
+    input {
+        font-size: 1.2rem;
+    }
+
+    ::placeholder {
+        font-size: 18px;
+    }
+
+    .footer .call {
+        margin: 2.5% 0 4% 3%;
+        font-size: 1rem;
+    }
+
+    .footer .call a {
+        font-size: 1rem;
+    }
+
+    .foot-part {
+        margin-left: 1.98rem;
+        margin-right: 3.8rem;
+    }
+
+    .foot-part li {
+        margin-bottom: 0.7rem;
+    }
+
+    .foot-part li a {
+        font-size: 1rem;
+    }
+
+    .footer .buttons {
+        margin-left: 0.7rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .footer .india {
+        font-size: 1rem;
+        margin-bottom: 2rem;
+        margin-left: 2rem;
+    }
+}
+
+/* 959px end */
+
+@media(max-width: 720px) {
+    .logo img {
+        width: 95px;
+    }
+
+    .buttons #select-btn {
+        margin-right: 5px;
+    }
+
+    .content .text {
+        font-size: 31px;
+    }
+
+    .content .para {
+        font-size: 18px;
+        margin-top: 1rem;
+    }
+
+    .content .para-1 {
+        font-size: 15px;
+        margin-top: 1.5rem;
+        font-weight: bold;
+    }
+
+    .user {
+        margin-top: 1rem;
+    }
+
+    .user #email-id {
+        width: 390px;
+    }
+
+    .user .stbtn {
+        width: 181px;
+        font-size: 1.37rem;
+    }
+
+    .main .features {
+        display: flex;
+        flex-direction: column;
+        margin: 0 3.8rem;
+    }
+
+    .main #flex-dir {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .main #flex-dir-3 {
+        flex-direction: none;
+    }
+
+    .features .text-col {
+        text-align: center;
+    }
+
+    .main .text {
+        font-size: 33px;
+    }
+
+    .text-col .detail {
+        font-size: 18px;
+    }
+
+    .img-col .feat-img {
+        width: 600px;
+    }
+
+    .img-col .tv {
+        top: 37.98%;
+        left: 13.2%;
+        max-width: 73%;
+    }
+
+    .gif img {
+        margin-left: 232%;
+        margin-top: 28%;
+    }
+
+    .img-col .device {
+        left: 19%;
+        top: 32%;
+        max-width: 61%;
+    }
+
+    .text-center {
+        font-size: 32px;
+        margin-top: 4rem;
+    }
+
+    .faq {
+        margin-top: 2.3%;
+    }
+
+    .accordion {
+        max-width: 93%;
+    }
+
+    .accordion details summary {
+        padding: 22px;
+        margin-bottom: 4px;
+    }
+
+    summary::after {
+        font-size: 30px;
+        font-weight: lighter;
+    }
+
+    .content-1 .para-1 {
+        margin-top: 2.5rem;
+        font-size: 14.8px;
+        font-weight: bolder;
+    }
+
+    .content-1 .user {
+        padding-bottom: 4.5rem;
+    }
+
+    input {
+        font-size: 1.2rem;
+    }
+
+    ::placeholder {
+        font-size: 18px;
+    }
+
+    .foot {
+        flex-wrap: wrap;
+    }
+
+    .foot .media {
+        padding-top: 3%;
+    }
+
+    .footer .call {
+        margin: 2.5% 0 4% 3%;
+        font-size: 1rem;
+    }
+
+    .footer .call a {
+        font-size: 1rem;
+    }
+
+    .foot-part {
+        margin-left: 1.98rem;
+        margin-right: 3.8rem;
+    }
+
+    .foot-part li {
+        margin-bottom: 0.7rem;
+    }
+
+    .foot-part li a {
+        font-size: 1rem;
+    }
+
+    .footer .buttons {
+        margin-left: 0.7rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .footer .india {
+        font-size: 1rem;
+        margin-bottom: 2rem;
+        margin-left: 2rem;
+    }
+}
+
+@media(max-width: 650px) {
+    .logo img {
+        width: 95px;
+    }
+
+    .content .text {
+        font-size: 29px;
+    }
+
+    .content .para-1 {
+        font-size: 14.5px;
+    }
+
+    .user form {
+        width: 100%;
+        /* max-width: 500px; */
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .user #email-id {
+        width: 526px;
+        margin-bottom: 3%;
+    }
+
+    .img-col .feat-img {
+        width: 489px;
+    }
+
+    .img-col .tv {
+        top: 37.98%;
+        left: 13.2%;
+        max-width: 73%;
+    }
+
+    .gif img {
+        margin-left: 113%;
+        margin-top: 28%;
+    }
+
+    .img-col .device {
+        left: 19%;
+        top: 32%;
+        max-width: 61%;
+    }
+
+    .text-center {
+        font-size: 32px;
+        margin-top: 4rem;
+    }
+
+    .accordion {
+        max-width: 91%;
+    }
+
+    .accordion details summary {
+        padding: 24px;
+        margin-bottom: 4px;
+    }
+
+    .foot .media {
+        margin-left: -0.9%;
+    }
+
+    .foot-part {
+        margin-left: 1.98rem;
+        margin-right: 3.8rem;
+    }
+}
+
+@media(max-width: 560px) {
+    .logo img {
+        width: 85px;
+    }
+
+    .content .text {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .content .para-1,
+    .content-1 .para-1 {
+        font-size: 16.5px;
+        text-align: center;
+    }
+
+    .user #email-id {
+        width: 475px;
+        margin-bottom: 3%;
+    }
+
+    .img-col .feat-img {
+        width: 489px;
+    }
+
+    .img-col .tv {
+        top: 39.98%;
+        left: 8.2%;
+        max-width: 84%;
+    }
+
+    .img-col .device {
+        left: 15%;
+        top: 34.2%;
+        max-width: 69%;
+    }
+
+    .text-col .detail {
+        font-size: 17px;
+    }
+
+    .text-center {
+        font-size: 32px;
+        margin-top: 4rem;
+    }
+
+    .accordion {
+        max-width: 91%;
+    }
+
+    .accordion details summary {
+        padding: 24px;
+        margin-bottom: 4px;
+    }
+
+    .foot .media {
+        margin-left: -0.9%;
+    }
+
+    .foot-part {
+        margin-left: 1.98rem;
+        margin-right: 3.8rem;
+    }
+}
+
+@media(max-width: 450px) {
+    .header {
+        width: 105%;
+    }
+
+    .logo img {
+        width: 96px;
+    }
+
+    hr {
+        width: 105%;
+    }
+
+    .content .text {
+        font-size: 33px;
+        text-align: center;
+    }
+
+    .text-col .text {
+        font-size: 28px;
+    }
+
+    .content .para-1,
+    .content-1 .para-1 {
+        font-size: 18.4px;
+        text-align: center;
+        line-height: 1.5;
+    }
+
+    .content-1 .para-2 {
+        margin-left: 8%;
+        margin-right: 8%;
+    }
+
+    .content-1 .user {
+        padding-bottom: 3.8rem;
+    }
+
+    .user #email-id {
+        width: 376px;
+        margin-bottom: 4.5%;
+    }
+
+    .img-col .feat-img {
+        width: 410px;
+    }
+
+    .img-col .tv {
+        top: 43.98%;
+        left: 4.2%;
+        max-width: 91%;
+    }
+
+    .img-col .device {
+        left: 11%;
+        top: 36%;
+        max-width: 76%;
+    }
+
+    .text-col .detail {
+        font-size: 17px;
+        font-weight: 500;
+    }
+
+    .text-center {
+        font-size: 35px;
+        text-align: center;
+        margin-top: 3rem;
+    }
+
+    .boxshot {
+        padding-bottom: 5px;
+        transform: translateY(-105px);
+    }
+
+    .boxshot img {
+        width: 46px;
+        height: 55px;
+    }
+
+    .download-text {
+        margin: 10px 13px;
+    }
+
+
+    .gif img {
+        margin-left: 21%;
+        margin-top: 6%;
+    }
+
+    .accordion {
+        max-width: 91%;
+    }
+
+    .accordion details summary {
+        padding: 24px;
+        margin-bottom: 4px;
+        width: 105%;
+    }
+
+    .sum {
+        width: 104.3%;
+    }
+
+    .user form .mail {
+        width: 366px;
+    }
+
+    .footer .call {
+        margin: 1.5rem 0 2.5rem 7%;
+        font-weight: 450;
+    }
+
+    .foot .media {
+        margin-left: -0.9%;
+    }
+
+    .foot-part {
+        margin-left: 1.98rem;
+        margin-right: 3.8rem;
+    }
+
+    .foot-part li a {
+        font-weight: 450;
+    }
+
+    .buttons .foot-btn {
+        width: 7.3rem;
+        text-align: center;
+        font-weight: 500;
+        font-size: 1rem;
+        margin: 0;
+    }
+
+    .buttons #icon {
+        font-size: 0.92rem;
+        transform: translateX(4px);
+    }
+
+    .buttons .india {
+        font-weight: 450;
+    }
+}
+
+@media(max-width: 380px) {
+
+    .header {
+        padding: 11px 8%;
+    }
+
+    .logo img {
+        width: 90px;
+    }
+
+    /* .main .features {
+        margin: 2rem;
+    } */
+
+    .content .para-1 {
+        width: 86%;
+    }
+
+    .content-1 .para-2 {
+        font-size: 19px;
+    }
+
+    .content .text {
+        font-size: 31px;
+        text-align: center;
+    }
+
+    .text-col .text {
+        font-size: 24px;
+    }
+
+    .user #email-id {
+        width: 296px;
+    }
+
+    .img-col .feat-img {
+        width: 329px;
+    }
+
+    .img-col .tv {
+        top: 45.98%;
+        left: 3.2%;
+        max-width: 93%;
+    }
+
+    .img-col .device {
+        left: 11%;
+        top: 36%;
+        max-width: 76%;
+    }
+
+    .ph-feat {
+        padding-bottom: 0px;
+    }
+
+    .text-col .detail {
+        font-size: 17px;
+        font-weight: 500;
+        margin-left: -9%;
+        margin-right: -9%;
+    }
+
+    .text-center {
+        font-size: 33px;
+        text-align: center;
+        margin-top: 2.9rem;
+        margin-bottom: 1.2rem;
+    }
+
+    .boxshot {
+        padding-bottom: 4px;
+        /* padding: 5px; */
+        transform: translate(-27px, -94px);
+        width: 76%;
+    }
+
+    .boxshot img {
+        width: 39px;
+        height: 53px;
+    }
+
+    .download-text {
+        margin: 7px 13px;
+    }
+
+    .download-text h3 {
+        font-size: 13px;
+    }
+
+    .gif img {
+        margin-left: 73%;
+        margin-top: 6%;
+    }
+
+    .faq {
+        margin-top: 2.3%;
+        margin-left: 1px;
+        margin-right: 22px;
+    }
+
+
+    .accordion {
+        max-width: 91%;
+    }
+
+    .accordion details summary {
+        padding: 24px;
+        margin-bottom: 4px;
+        width: 105%;
+        margin-left: 3px;
+    }
+
+    .sum {
+        width: 105.4%;
+    }
+
+    .footer .call {
+        margin: 1.5rem 0 2.5rem 7%;
+        font-weight: 450;
+    }
+
+    .foot .media {
+        margin-left: 8.1%;
+    }
+
+    .footer .buttons {
+        margin-left: 0.4rem;
+    }
+
+    .foot-part {
+        margin-left: 1.98rem;
+        margin-right: 3.8rem;
+    }
+
+    .foot-part li a {
+        font-weight: 450;
+    }
+
+    .buttons .foot-btn {
+        width: 7.3rem;
+        text-align: center;
+        font-weight: 500;
+        font-size: 1rem;
+        margin: 0;
+    }
+
+    .buttons #icon {
+        font-size: 0.92rem;
+        transform: translateX(4px);
+    }
+
+    .buttons .india {
+        font-weight: 450;
+    }
+}
+
+
+@media(max-width: 350px) {
+    .user #email-id {
+        width: 269px;
+    }
+
+    .img-col .feat-img {
+        width: 313px;
+    }
+
+    .img-col .tv {
+        top: 45.98%;
+        left: 0.2%;
+        max-width: 107%;
+    }
+
+    .img-col .device {
+        left: 6%;
+        top: 42%;
+        max-width: 87%;
+    }
+
+    .ph-feat {
+        padding-bottom: 0px;
+    }
+
+    .text-col .text {
+        font-size: 28.2px;
+    }
+
+    .text-col .text-2 {
+        font-size: 26.1px;
+    }
+
+    .text-col .detail {
+        font-size: 17px;
+        font-weight: 500;
+        margin-left: -9%;
+        margin-right: -9%;
+    }
+
+    .text-center {
+        font-size: 33px;
+        text-align: center;
+        margin-top: 2.9rem;
+        margin-bottom: 1.2rem;
+    }
+
+    .boxshot {
+        padding-bottom: 4px;
+        /* padding: 5px; */
+        transform: translate(-27px, -94px);
+        width: 76%;
+    }
+
+    .boxshot img {
+        width: 39px;
+        height: 53px;
+    }
+
+    .download-text {
+        margin: 7px 13px;
+    }
+
+    .download-text h3 {
+        font-size: 13px;
+    }
+
+    .gif img {
+        margin-left: 73%;
+        margin-top: 6%;
+    }
+
+    .faq {
+        margin-top: 2.3%;
+        margin-left: 1px;
+        margin-right: 22px;
+    }
+
+
+    .accordion {
+        max-width: 91%;
+    }
+
+    .accordion details summary {
+        padding: 24px;
+    }
+
+    .sum {
+        width: 105.4%;
+    }
+
+    .footer .call {
+        margin: 1.5rem 0 2.5rem 8%;
+        ;
+    }
+
+    .foot .media {
+        margin-left: 8.1%;
+    }
+
+    .footer .buttons {
+        margin-left: 0.4rem;
+    }
+
+    .foot-part {
+        margin-left: 1.98rem;
+        margin-right: 3.8rem;
+    }
+
+    .foot-part li a {
+        font-weight: 450;
+    }
+
+    .buttons .foot-btn {
+        width: 7.3rem;
+        text-align: center;
+        font-weight: 500;
+        font-size: 1rem;
+        margin: 0;
+    }
+
+    .buttons #icon {
+        font-size: 0.92rem;
+        transform: translateX(4px);
+    }
+
+    .buttons .india {
+        font-weight: 450;
+    }
+}
